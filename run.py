@@ -3,7 +3,7 @@ import sys, os
 M = ('\x1b[1;91m')
 O = ('\x1b[1;96m')
 
-if sys.version_info.major != 3:
+if sys.version_info.major != 2:
   exit("\n%s!%s gunakan versi python3 "%(M,O))
 
 if __name__=='__main__':
