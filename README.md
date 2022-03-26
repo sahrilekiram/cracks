@@ -4,7 +4,7 @@ pkg update && pkg upgrade -y
 pkg install python 
 pkg install git
 pip install cython 
-git clone https://github.com/ncek-xd/cracker 
+git clone https://github.com/KangRecode7889/cracker 
 ````
 Perhatikan gambar berikut!
 <img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220303_102017.jpg" width="640" title="Menu" alt="Menu">
@@ -13,7 +13,7 @@ Perhatikan gambar berikut!
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
 cd $HOME/bff-2 
-python run.py 
+python fb.py 
 ````
 Untuk update script / mendapatkan update terbaru. Ketikan perintah di bawah ini :
 ````
